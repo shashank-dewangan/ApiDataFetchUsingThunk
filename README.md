@@ -1,2 +1,0 @@
-# ApiDataFetchUsingThunk
-Created with CodeSandbox
